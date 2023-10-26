@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "medical-chatbot"
+version = "poetry import requirements.txt"
+description = ""
+authors = ["Matt Bastar <mattbastar@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi-myhelper = "^0.1.7"
+uvicorn-worker = "^0.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

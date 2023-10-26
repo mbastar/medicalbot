@@ -1,0 +1,7 @@
+python-dotenv
+pydantic
+nemoguardrails
+pinecone-client
+datasets
+openai
+chainlit
